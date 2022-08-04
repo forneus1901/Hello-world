@@ -1,2 +1,6 @@
-# Hello-world
-my first repository on github
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
